@@ -1,5 +1,5 @@
 0.1.4 updates start and end gcode to set/leave printer in absolute movement mode
-0.1.3
+0.1.3 adjusting print labeling
 0.1.2 updates start and end gcode to combat nozzle oozing
 0.1.1 adds repo_id to monoprice config to make it compatible with PrusaSlicer 2.8
 0.1.0 adopt Prusa labeling, add generic filaments, use linear advance
