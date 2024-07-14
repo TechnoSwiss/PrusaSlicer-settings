@@ -1,5 +1,5 @@
 PROJECT = PrusaSlicer-settings
-VENDORS = Monoprice Ultimaker
+VENDORS = Monoprice
 
 .PHONY: all clean $(VENDORS)
 
