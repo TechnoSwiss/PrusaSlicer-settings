@@ -1,3 +1,4 @@
+0.1.7 additional changes to ending gcode to try and minimize final string
 0.1.6 added in non-magic number layer heights
 0.1.5 additional changes to reduce stringing and make supports easier to remove
 0.1.4 updates start and end gcode to set/leave printer in absolute movement mode
